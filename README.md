@@ -14,9 +14,12 @@ I am a passionate Computer Science Engineer 🔧 with a strong interest in codin
 - **Database:** MySQL, MongoDB
 - **Tools:** Git, GitHub, Postman
 
-  Frontend Technologies:**
+  Frontend Technologies:
+  
   -HTML
+  
   -CSS
+  
   -JavaScript
 
 🎯 Projects
