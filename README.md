@@ -1,5 +1,6 @@
 # Hi there 👋, I'm Yaseen!
 I am a versatile software engineer with the ability to seamlessly switch between various roles I have a passion for exploring new technology stacks and harnessing them to create innovative solutions.
+And I am also a Frontend Developer who will work to make a better version for the tech!.
 I am a passionate Computer Science Engineer 🔧 with a strong interest in coding, problem-solving, and exploring new technologies. Open to new opportunities and collaborations! 🚀
 
 🌱 **I’m currently learning:**
