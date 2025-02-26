@@ -9,10 +9,9 @@ I am a passionate Computer Science Engineer 🔧 with a strong interest in codin
 - Python Programming
 
 💼 **My Tech Stack:**
-- **Languages:** Java, Python, C
-- **Frameworks:** Spring Boot, Android Studio, Flask, React
-- **Database:** MySQL, MongoDB
-- **Tools:** Git, GitHub, Postman
+- **Languages:** Java, C
+- **Database:** MySQL
+- **Tools:** Git, GitHub
 
   Frontend Technologies:
   
