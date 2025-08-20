@@ -4,14 +4,14 @@ And I am also a Frontend Developer who will work to make a better version for th
 I am a passionate Computer Science Engineer 🔧 with a strong interest in coding, problem-solving, and exploring new technologies. Open to new opportunities and collaborations! 🚀
 
 🌱 **I’m currently learning:**
-- Android app development using Html and CSS
 - Database integration with MySQL
-- Python Programming
+- Java Programming
+- CyberSecurity Real-time applications
 
 💼 **My Tech Stack:**
-- **Languages:** Java, C
+- **Languages:** Java, SQL
 - **Database:** MySQL
-- **Tools:** Git, GitHub
+- **Version Controls:** VS Code, GitHub
 
   Frontend Technologies:
   
@@ -26,7 +26,7 @@ I have worked on several projects that have helped me develop my skills. Here ar
 
 My-Hometown
 Space-Exploration
-My-Buisiness-Card
+Phishing Detector
 Librarian-Counter
 BlackJack
 
